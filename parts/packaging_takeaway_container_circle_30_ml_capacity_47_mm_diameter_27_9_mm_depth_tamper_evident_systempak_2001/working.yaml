@@ -1,0 +1,960 @@
+bip_39_2_word_array:
+- van
+- struggle
+bip_39_2_word_no_space: vanstruggle
+bip_39_2_word_space: van struggle
+bip_39_2_word_underscore: van_struggle
+bip_39_3_word_array:
+- van
+- struggle
+- panther
+bip_39_3_word_no_space: vanstrugglepanther
+bip_39_3_word_space: van struggle panther
+bip_39_3_word_underscore: van_struggle_panther
+bip_39_full_array:
+- van
+- struggle
+- panther
+- fatal
+- purity
+- remain
+- arrow
+- pottery
+- october
+- laugh
+- hurry
+- maximum
+bip_39_full_no_space: vanstrugglepantherfatalpurityremainarrowpotteryoctoberlaughhurrymaximum
+bip_39_full_space: van struggle panther fatal purity remain arrow pottery october
+    laugh hurry maximum
+bip_39_full_underscore: van_struggle_panther_fatal_purity_remain_arrow_pottery_october_laugh_hurry_maximum
+directory: parts/packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+generate_stl: false
+id: packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+id_no_class: packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+id_no_size: packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+id_no_type: packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+md5: f13aea7f29cae56b032d47990fb1bec4
+md5_10: f13aea7f29
+md5_10_upper: F13AEA7F29
+md5_5: f13ae
+md5_5_upper: F13AE
+md5_6: f13aea
+md5_6_alpha: 9eui2
+md5_6_alpha_upper: 9EUI2
+md5_6_upper: F13AEA
+name: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27 9 Mm Depth
+    Tamper Evident Systempak 2001
+name_no_class: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27
+    9 Mm Depth Tamper Evident Systempak 2001
+name_no_size: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27
+    9 Mm Depth Tamper Evident Systempak 2001
+name_no_type: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27
+    9 Mm Depth Tamper Evident Systempak 2001
+name_proper: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27
+    9 Mm Depth Tamper Evident Systempak 2001
+name_space: packaging takeaway container circle 30 ml capacity 47 mm diameter 27 9
+    mm depth tamper evident systempak 2001
+name_upper: PACKAGING TAKEAWAY CONTAINER CIRCLE 30 ML CAPACITY 47 MM DIAMETER 27 9
+    MM DEPTH TAMPER EVIDENT SYSTEMPAK 2001
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: new_chat
+        description: step_1_create_icon
+    -   command: ai_query
+        delay: '240'
+        mode_ai_wait: slow
+        text: "## READ THIS FIRST \u2014 no theme is coming in this message, and that\
+            \ is correct\n\nThis is **step 1 of 2**. It is deliberately theme-free.\
+            \ You are building a reusable house style, not designing a specific logo.\n\
+            \nThe theme arrives in step 2. Do **not** ask what the theme is. Do **not**\
+            \ ask any clarifying questions. Do **not** write a final image-generation\
+            \ prompt yet \u2014 you cannot, and attempting one is a failure of this\
+            \ step. Do **not** invent a placeholder theme and design for it. If you\
+            \ feel information is missing, that is expected: the missing information\
+            \ is the theme, it is coming next, and nothing in this step requires it.\n\
+            \nYour entire output for this step is a **house style guide** that will\
+            \ be applied to whatever theme arrives next.\n\n---\n\n## The product\
+            \ this style serves\n\n**Intended use:** a square, single-colour, pure-black-on-pure-white\
+            \ mascot logo, generated as a raster image, then **auto-traced to vector\
+            \ and cut/engraved on a laser cutter**. The trace step is unforgiving\
+            \ \u2014 it is the hardest constraint in this brief and should shape most\
+            \ of your recommendations.\n\n**Target feel:** charming, original, cute,\
+            \ polished, instantly readable at ~20 mm. A designed branded icon, not\
+            \ a doodle page and not generic kawaii clip art.\n\n---\n\n## What to\
+            \ produce\n\nWrite these six sections. **Budget: about 900 words total,\
+            \ 1,100 hard ceiling.** That is roughly 100\u2013150 words per section,\
+            \ with section 6 allowed the most. This is a working reference, not an\
+            \ essay \u2014 every line should be a rule someone could check a drawing\
+            \ against. Prefer tight bullets over prose paragraphs, and cut any sentence\
+            \ that only restates the brief back at me.\n\n**1. Line language menu**\n\
+            Exactly three distinct black-on-white line-art approaches (e.g. uniform\
+            \ monoline, weight-varied outline with sparse interior, chunky sticker-outline,\
+            \ geometric constructed line). One or two lines each: what it does for\
+            \ charm, how it survives auto-tracing, what it costs.\n\n**2. Cuteness\
+            \ that isn't generic**\nThe handful of levers that make a line mascot\
+            \ lovable \u2014 eye shape and spacing, head-to-body ratio, pose energy,\
+            \ mouth simplicity, restraint on blush marks \u2014 each as a one-line\
+            \ rule with a number where a number applies. Then a short do-not list\
+            \ of the clich\xE9s that make an AI mascot look stock (dead-centre symmetrical\
+            \ stare, sparkle confetti, floating hearts, blob bodies), each with its\
+            \ one-line replacement.\n\n**3. Trace-safety rules**\nA flat list of concrete,\
+            \ checkable rules for the auto-trace-to-cut pipeline \u2014 one line each,\
+            \ no explanatory paragraphs:\n- minimum stroke thickness relative to the\
+            \ square's width, stated as a fraction (so it scales)\n- minimum gap between\
+            \ two adjacent strokes before they blur into one traced blob\n- why every\
+            \ shape should read as a closed path, and how to spot one that won't\n\
+            - island/floating-part handling and where to add connective bridges\n\
+            - what to do about interior detail that a tracer will turn into noise\
+            \ (crosshatching, stippling, tapering hairlines, single stray dots)\n\
+            - why large solid black fills are avoided here, and the acceptable exceptions\
+            \ (small eyes, pupils, a tiny accent shape)\n\n**4. Composition and hierarchy**\n\
+            Bulleted rules only: square framing, margin as a fraction of the square,\
+            \ centre of visual mass, minimum negative space, the mascot-leads / props-support\
+            \ / text-reinforces hierarchy, and the shared traits that make it read\
+            \ as one illustrator's hand (same stroke weight, same corner radius, same\
+            \ eye style, same spacing rhythm).\n\n**5. Text and badge treatments**\n\
+            Text is allowed and okay to include. Briefly: when a word helps versus\
+            \ clutters, a maximum letter count that stays cuttable, how to specify\
+            \ literal text so it renders verbatim (quotes, exact casing), the letterform\
+            \ to ask for, and when a badge ring earns its place versus just boxing\
+            \ the mark in. Six bullets is plenty.\n\n**6. Prompt architecture for\
+            \ step 2**\nThe most important section, so spend your words here. Specify\
+            \ the exact template the step-2 final prompt must follow \u2014 and state\
+            \ that the finished prompt should land at **180\u2013250 words**, long\
+            \ enough to carry the spec, short enough that no single instruction gets\
+            \ diluted. Order it to match how the image model weights a prompt:\n\n\
+            1. **Medium and style up front** \u2014 the first sentence states it is\
+            \ a square black-and-white line-art mascot logo, because opening words\
+            \ set the mode for everything after.\n2. **Subject** \u2014 the mascot,\
+            \ its identity, expression, pose.\n3. **Key details** \u2014 props, supporting\
+            \ motifs, any literal text in quotes.\n4. **Layout** \u2014 centring,\
+            \ margins, hierarchy, where each element sits.\n5. **Line and manufacturing\
+            \ spec** \u2014 stroke weight, closed paths, interior-detail limits.\n\
+            6. **Exclusions last** \u2014 negatives go at the very end, after every\
+            \ positive descriptor, because a model reading them early tends to treat\
+            \ them as things to compose rather than things to omit.\n\nGive the canonical\
+            \ exclusion list to close with (no grey, no shading, no gradients, no\
+            \ halftone, no dithering, no texture, no colour, no transparency, no background\
+            \ scene, no drop shadow, no outer glow, no frame border unless specified,\
+            \ no watermark, no signature, no extra text beyond what is quoted).\n\n\
+            Also state the two facts the prompt must say in plain words no matter\
+            \ what: the image is **square**, and it is **pure black on a pure white\
+            \ background**.\n\n---\n\n## Response style and length\n\n**About 900\
+            \ words, 1,100 absolute maximum.** Bullets over prose. Concrete and checkable\
+            \ over abstract and aspirational \u2014 \"stroke no thinner than 1/100\
+            \ of the square's width\" beats \"confident lines\". No preamble, no restating\
+            \ this brief back at me, no summary of what you are about to do. Skip\
+            \ the caveats and the reasoning behind each rule; just state the rule.\n\
+            \nClose with a checklist of the rules, 12 lines at most, so step 2 can\
+            \ be graded against it.\n\nThen stop. No final image prompt, no questions,\
+            \ no theme.\n"
+    -   command: ai_query
+        delay: '240'
+        mode_ai_wait: slow
+        text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **an image of packaging\
+            \ takeaway container circle 30 ml capacity 47 mm diameter 27 9 mm depth\
+            \ tamper evident systempak 2001 make Packaging Takeaway Container Circle\
+            \ 30 Ml Capacity 47 Mm Diameter 27 9 Mm Depth Tamper Evident Systempak\
+            \ 2001 cute**\n\nApply the house style you just wrote to this theme. Everything\
+            \ you need is now in hand. Generate the image during this step without\
+            \ asking questions or waiting for another message.\n\n---\n\n## Part A\
+            \ \u2014 private exploration\n\nWork through these choices privately before\
+            \ calling the image generation tool. Do not send the exploration as a\
+            \ text response. Push past the theme's first obvious reading, but do it\
+            \ briskly.\n\n- **Angles:** exactly four mascot interpretations, **one\
+            \ or two sentences each**. Include at least one that anthropomorphises\
+            \ an object or concept from the theme rather than reaching for the obvious\
+            \ animal, and at least one built on a visual pun. Then name your pick\
+            \ in a single sentence saying why it beats the other three \u2014 no full\
+            \ comparison table.\n- **The chosen design:** one short paragraph fixing\
+            \ the pose, expression, props, and line strategy. Prefer gesture or a\
+            \ moment of character over a static front-on stare. Cut any prop that\
+            \ is decoration rather than signal.\n- **Text:** one line \u2014 the exact\
+            \ string in quotes with exact casing, or \"no text\". Text is allowed\
+            \ and okay to include when it improves identification.\n- **Trace and\
+            \ small-size check:** a short bullet list of fixes only \u2014 every stroke\
+            \ to thicken, gap to widen, island to bridge, detail to delete. Just the\
+            \ fixes, not the reasoning, and not a description of what the design looks\
+            \ like at size.\n\nSkip anything not on that list: no tradeoff essays,\
+            \ no runner-up post-mortems, no notes on your own process.\n\n## Part\
+            \ B \u2014 generate the image now\n\nWrite the final image-generation\
+            \ prompt for the chosen direction and pass it directly to the image generation\
+            \ tool in this step. Invoke the tool exactly once. Do not return a text-only\
+            \ prompt, a fenced code block, or a plan to generate later. Finish with\
+            \ the generated image so it can be saved immediately from the generation\
+            \ window.\n\nFollow the six-part architecture from step 1 exactly, in\
+            \ order: medium and style \u2192 subject \u2192 key details \u2192 layout\
+            \ \u2192 line and manufacturing spec \u2192 exclusions last.\n\n**Length:\
+            \ 180\u2013250 words.** Long enough to carry the full spec, short enough\
+            \ that no single instruction gets diluted. If you are over, cut adjectives\
+            \ and repeated style words before you cut any manufacturing rule.\n\n\
+            Hard requirements for that prompt:\n\n- It opens by stating it is a **square\
+            \ black-and-white line-art mascot logo**.\n- It says in plain words that\
+            \ the image is **square** and **pure black on a pure white background**.\n\
+            - It states stroke weight as a fraction of the image width, and requires\
+            \ every shape to be a **closed path** with **no floating disconnected\
+            \ islands**.\n- It caps interior detail explicitly and forbids crosshatching,\
+            \ stippling, and hairline tapers.\n- Any literal text appears in quotes\
+            \ with exact casing, spelled out character by character if it is unusual.\n\
+            - The exclusion list comes **last**, after every positive descriptor.\n\
+            - It is self-contained: someone pasting it cold, with no memory of this\
+            \ conversation, gets the same image. No \"as discussed above\", no \"\
+            the mascot from earlier\".\n- One image-generation call only. No variants,\
+            \ no alternates, and no extra text response after the image.\n"
+    -   command: save_image_generated
+        file_name: initial_generated.png
+        mode_ai_wait: slow
+    -   command: close_tab
+    file_test: initial_generated.png
+    retries_until_complete: 0
+oomlout_ai_roboclick_2:
+    actions:
+    -   command: new_chat
+        description: step_2_create_image_chibi
+    -   command: ai_query
+        delay: '240'
+        mode_ai_wait: slow
+        text: "## READ THIS FIRST \u2014 no theme is coming in this message, and that\
+            \ is correct\n\nThis is **step 1 of 2**. It is deliberately theme-free.\
+            \ You are building a reusable house style, not designing a specific character.\n\
+            \nThe theme arrives in step 2. Do **not** ask what the theme is. Do **not**\
+            \ ask any clarifying questions. Do **not** write a final image-generation\
+            \ prompt yet \u2014 you cannot, and attempting one is a failure of this\
+            \ step. Do **not** invent a placeholder theme and design for it. If you\
+            \ feel information is missing, that is expected: the missing information\
+            \ is the theme, it is coming next, and nothing in this step requires it.\n\
+            \nYour entire output for this step is a **house style guide** that will\
+            \ be applied to whatever theme arrives next.\n\n---\n\n## The product\
+            \ this style serves\n\n**Intended use:** a single hero image of one chibi\
+            \ character, rendered to look like a **premium art-directed 3D collectible**\
+            \ \u2014 the polish of a designer vinyl figure or a high-end animated\
+            \ feature, not a flat illustration and not a photoreal creature.\n\n**Target\
+            \ feel:** huggable, joyful, a little mischievous. Instantly readable at\
+            \ thumbnail size. Full colour, clean studio-style presentation, character\
+            \ as the unmistakable focus.\n\n**The failure mode to design against:**\
+            \ generic stock mascot \u2014 a symmetrical smiling blob standing front-on\
+            \ against a gradient, with plastic-looking everything and no idea of its\
+            \ own.\n\n---\n\n## What to produce\n\nSix sections. **Budget: about 900\
+            \ words total, 1,100 hard ceiling** \u2014 roughly 100\u2013150 words\
+            \ each, section 6 allowed the most. This is a working reference, not an\
+            \ essay. Tight bullets, numbers wherever a number applies, and cut any\
+            \ sentence that restates this brief back at me.\n\n**1. Chibi proportion\
+            \ system**\nThe specific numbers that make chibi read as cute rather than\
+            \ deformed: head-to-body ratio range, eye size and spacing as a fraction\
+            \ of head width, limb length and thickness, hand and foot simplification\
+            \ level, where the centre of mass sits. State the ranges that work and\
+            \ the ones that tip into uncanny.\n\n**2. Face and expression**\nThe small\
+            \ set of levers that carry emotional appeal \u2014 eye shape and highlight\
+            \ placement, brow presence, mouth simplicity, cheek and blush restraint,\
+            \ head tilt. One line each. Then a short do-not list: dead-eyed symmetrical\
+            \ stares, over-detailed irises, realistic teeth, aggressive or smug expressions,\
+            \ and the fix for each.\n\n**3. Pose and silhouette**\nHow to get a pose\
+            \ that feels alive rather than catalogued: weight shift, gesture line,\
+            \ asymmetry, one clear action beat, a prop held rather than floated. Plus\
+            \ the silhouette test \u2014 what to check so major forms stay separate\
+            \ and readable when the image is 100 px wide.\n\n**4. Material and lighting\
+            \ menu**\nThis is the main lever for premium CGI feel, so be concrete.\
+            \ Give a named menu of surfaces worth calling for \u2014 soft-touch matte\
+            \ vinyl, glossy PVC, satin fabric, brushed metal, rubberised accents,\
+            \ soft translucent resin, flocked or felted texture \u2014 and note what\
+            \ each contributes and where it goes wrong. Then the lighting recipe:\
+            \ soft key, gentle fill, subtle rim separation, clean controlled speculars,\
+            \ soft contact shadow to ground the figure. Say why hard shadows, heavy\
+            \ grain, and dramatic contrast all cheapen this style.\n\nAlso flag the\
+            \ vocabulary trap: words like *photorealistic*, *real photograph*, and\
+            \ *taken on a real camera* engage the model's photoreal mode and will\
+            \ drag the character toward unsettling realism. The cues that actually\
+            \ land this style are **stylized 3D render**, **premium designer vinyl\
+            \ collectible**, **soft studio lighting**, and named materials.\n\n**5.\
+            \ Colour and background**\nPalette discipline \u2014 a dominant colour,\
+            \ one or two supports, one accent for the eye to land on. Value separation\
+            \ between character and background. Background stays a clean studio sweep\
+            \ or soft gradient with nothing competing. Say how much colour saturation\
+            \ is joyful versus garish.\n\n**6. Prompt architecture for step 2**\n\
+            The most important section, so spend your words here. Specify the exact\
+            \ template the step-2 final prompt must follow. Use **short labelled blocks**,\
+            \ not one long paragraph \u2014 that is the shape that holds up for character\
+            \ work:\n\n```\nConcept:      one line on the idea and the mood\nCharacter:\
+            \    species/subject, proportions, face, expression, pose, costume or\
+            \ markings\nDetails:      props and supporting motifs, kept few\nStyle:\
+            \        stylized 3D render, named materials, surface finishes\nCamera:\
+            \       framing, aspect, angle, focal feel, character centred\nLighting:\
+            \     key, fill, rim, contact shadow\nBackground:   clean studio treatment\n\
+            Constraints:  exclusions, LAST\n```\n\nState that the finished prompt\
+            \ should land at **180\u2013250 words**, and that exclusions always come\
+            \ last, after every positive descriptor \u2014 a model reading negatives\
+            \ early tends to treat them as things to compose rather than things to\
+            \ omit.\n\nGive the canonical exclusion list to close with: no photorealism,\
+            \ no realistic human anatomy, no creepy or uncanny facial proportions,\
+            \ no harsh shadows, no heavy film grain or noise, no busy scenery, no\
+            \ clutter, no tiny unreadable detail, no muddy or muddled textures, no\
+            \ watermark, no signature, no logos or trademarks, no extra characters.\n\
+            \nAlso state the two things the prompt must say in plain words no matter\
+            \ what: it is a **fun chibi CGI-style render**, and the result should\
+            \ read as **polished and premium**.\n\n---\n\n## Response style and length\n\
+            \n**About 900 words, 1,100 absolute maximum.** Bullets over prose. Concrete\
+            \ over aspirational \u2014 \"head roughly 1/2 the total height\" beats\
+            \ \"oversized head\". No preamble, no restating this brief, no summary\
+            \ of what you are about to do. Skip the reasoning behind each rule; just\
+            \ state the rule.\n\nClose with a checklist of the rules, 12 lines at\
+            \ most, so step 2 can be graded against it.\n\nThen stop. No final image\
+            \ prompt, no questions, no theme.\n"
+    -   command: ai_query
+        delay: '240'
+        mode_ai_wait: slow
+        text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **a fun chibi CGI\
+            \ inspired picture of packaging takeaway container circle 30 ml capacity\
+            \ 47 mm diameter 27 9 mm depth tamper evident systempak 2001 make Packaging\
+            \ Takeaway Container Circle 30 Ml Capacity 47 Mm Diameter 27 9 Mm Depth\
+            \ Tamper Evident Systempak 2001 cute**\n\nApply the house style you just\
+            \ wrote to this theme. If the theme above already arrives wrapped in wording\
+            \ like \"a fun chibi CGI inspired picture of\u2026\", treat only the subject\
+            \ inside it as the theme \u2014 the chibi CGI part is already covered\
+            \ by your style guide. Everything you need is now in hand. Generate the\
+            \ image during this step without asking questions or waiting for another\
+            \ message.\n\n---\n\n## Part A \u2014 private exploration\n\nWork through\
+            \ these choices privately before calling the image generation tool. Do\
+            \ not send the exploration as a text response. Push past the theme's first\
+            \ obvious reading, but do it briskly.\n\n- **Angles:** exactly four character\
+            \ interpretations, **one or two sentences each**. Include at least one\
+            \ that anthropomorphises an object or concept from the theme rather than\
+            \ reaching for the obvious animal, and at least one built on a small joke\
+            \ or a story beat. Then name your pick in a single sentence saying why\
+            \ it beats the other three \u2014 no full comparison table.\n- **The chosen\
+            \ character:** one short paragraph fixing proportions, face and expression,\
+            \ pose and gesture, costume or markings, and the one or two props that\
+            \ earn their place. Give it a personality in a few words, not a description\
+            \ of a shape.\n- **Materials and palette:** a short bullet list \u2014\
+            \ which named surface goes on which part of the character, the dominant\
+            \ colour, the supports, and the single accent. This is the premium-feel\
+            \ lever, so be specific.\n- **Readability fixes:** a short bullet list\
+            \ only \u2014 every form to enlarge, separate, simplify, or delete so\
+            \ the silhouette holds at thumbnail size. Just the fixes, not the reasoning.\n\
+            \nSkip anything not on that list: no tradeoff essays, no runner-up post-mortems,\
+            \ no notes on your own process.\n\n## Part B \u2014 generate the image\
+            \ now\n\nWrite the final image-generation prompt for the chosen character\
+            \ and pass it directly to the image generation tool in this step. Invoke\
+            \ the tool exactly once. Do not return a text-only prompt, a fenced code\
+            \ block, or a plan to generate later. Finish with the generated image\
+            \ so it can be saved immediately from the generation window.\n\nUse the\
+            \ labelled-block template from step 1 in order: Concept \u2192 Character\
+            \ \u2192 Details \u2192 Style \u2192 Camera \u2192 Lighting \u2192 Background\
+            \ \u2192 Constraints last.\n\n**Length: 180\u2013250 words.** Long enough\
+            \ to carry the full spec, short enough that no single instruction gets\
+            \ diluted. If you are over, cut adjectives and repeated style words before\
+            \ you cut any material, lighting, or framing rule.\n\nHard requirements\
+            \ for that prompt:\n\n- It states plainly that this is a **fun chibi CGI-style\
+            \ render**, **polished and premium**.\n- It gives the head-to-body ratio\
+            \ and the framing and aspect explicitly, with the character **centred\
+            \ as the hero**.\n- It names **specific materials and finishes** per part\
+            \ rather than saying \"3D style\", and gives the lighting recipe \u2014\
+            \ soft key, gentle fill, rim separation, soft contact shadow.\n- It avoids\
+            \ the photoreal trigger words entirely \u2014 no *photorealistic*, no\
+            \ *real photograph*, no *shot on camera*.\n- It specifies a clean studio\
+            \ background with nothing competing for attention.\n- The exclusion list\
+            \ comes **last**, after every positive descriptor, and includes no text\
+            \ and no watermark.\n- It is self-contained: someone pasting it cold,\
+            \ with no memory of this conversation, gets the same image. No \"as described\
+            \ above\", no \"the character from earlier\".\n- One image-generation\
+            \ call only. No variants, no alternates, and no extra text response after\
+            \ the image.\n"
+    -   command: save_image_generated
+        file_name: initial_generated_chibi.png
+        mode_ai_wait: slow
+    -   command: close_tab
+    file_test: initial_generated_chibi.png
+    retries_until_complete: 0
+oomlout_ai_roboclick_3:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            directory: parts\packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+            name: packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+            name_proper: Packaging Takeaway Container Circle 30 Ml Capacity 47 Mm
+                Diameter 27 9 Mm Depth Tamper Evident Systempak 2001
+            name_space: packaging takeaway container circle 30 ml capacity 47 mm diameter
+                27 9 mm depth tamper evident systempak 2001
+            name_upper: PACKAGING TAKEAWAY CONTAINER CIRCLE 30 ML CAPACITY 47 MM DIAMETER
+                27 9 MM DEPTH TAMPER EVIDENT SYSTEMPAK 2001
+            oomlout_ai_roboclick_1:
+                actions:
+                -   command: new_chat
+                    description: step_1_create_icon
+                -   command: ai_query
+                    delay: '240'
+                    mode_ai_wait: slow
+                    text: "## READ THIS FIRST \u2014 no theme is coming in this message,\
+                        \ and that is correct\n\nThis is **step 1 of 2**. It is deliberately\
+                        \ theme-free. You are building a reusable house style, not\
+                        \ designing a specific logo.\n\nThe theme arrives in step\
+                        \ 2. Do **not** ask what the theme is. Do **not** ask any\
+                        \ clarifying questions. Do **not** write a final image-generation\
+                        \ prompt yet \u2014 you cannot, and attempting one is a failure\
+                        \ of this step. Do **not** invent a placeholder theme and\
+                        \ design for it. If you feel information is missing, that\
+                        \ is expected: the missing information is the theme, it is\
+                        \ coming next, and nothing in this step requires it.\n\nYour\
+                        \ entire output for this step is a **house style guide** that\
+                        \ will be applied to whatever theme arrives next.\n\n---\n\
+                        \n## The product this style serves\n\n**Intended use:** a\
+                        \ square, single-colour, pure-black-on-pure-white mascot logo,\
+                        \ generated as a raster image, then **auto-traced to vector\
+                        \ and cut/engraved on a laser cutter**. The trace step is\
+                        \ unforgiving \u2014 it is the hardest constraint in this\
+                        \ brief and should shape most of your recommendations.\n\n\
+                        **Target feel:** charming, original, cute, polished, instantly\
+                        \ readable at ~20 mm. A designed branded icon, not a doodle\
+                        \ page and not generic kawaii clip art.\n\n---\n\n## What\
+                        \ to produce\n\nWrite these six sections. **Budget: about\
+                        \ 900 words total, 1,100 hard ceiling.** That is roughly 100\u2013\
+                        150 words per section, with section 6 allowed the most. This\
+                        \ is a working reference, not an essay \u2014 every line should\
+                        \ be a rule someone could check a drawing against. Prefer\
+                        \ tight bullets over prose paragraphs, and cut any sentence\
+                        \ that only restates the brief back at me.\n\n**1. Line language\
+                        \ menu**\nExactly three distinct black-on-white line-art approaches\
+                        \ (e.g. uniform monoline, weight-varied outline with sparse\
+                        \ interior, chunky sticker-outline, geometric constructed\
+                        \ line). One or two lines each: what it does for charm, how\
+                        \ it survives auto-tracing, what it costs.\n\n**2. Cuteness\
+                        \ that isn't generic**\nThe handful of levers that make a\
+                        \ line mascot lovable \u2014 eye shape and spacing, head-to-body\
+                        \ ratio, pose energy, mouth simplicity, restraint on blush\
+                        \ marks \u2014 each as a one-line rule with a number where\
+                        \ a number applies. Then a short do-not list of the clich\xE9\
+                        s that make an AI mascot look stock (dead-centre symmetrical\
+                        \ stare, sparkle confetti, floating hearts, blob bodies),\
+                        \ each with its one-line replacement.\n\n**3. Trace-safety\
+                        \ rules**\nA flat list of concrete, checkable rules for the\
+                        \ auto-trace-to-cut pipeline \u2014 one line each, no explanatory\
+                        \ paragraphs:\n- minimum stroke thickness relative to the\
+                        \ square's width, stated as a fraction (so it scales)\n- minimum\
+                        \ gap between two adjacent strokes before they blur into one\
+                        \ traced blob\n- why every shape should read as a closed path,\
+                        \ and how to spot one that won't\n- island/floating-part handling\
+                        \ and where to add connective bridges\n- what to do about\
+                        \ interior detail that a tracer will turn into noise (crosshatching,\
+                        \ stippling, tapering hairlines, single stray dots)\n- why\
+                        \ large solid black fills are avoided here, and the acceptable\
+                        \ exceptions (small eyes, pupils, a tiny accent shape)\n\n\
+                        **4. Composition and hierarchy**\nBulleted rules only: square\
+                        \ framing, margin as a fraction of the square, centre of visual\
+                        \ mass, minimum negative space, the mascot-leads / props-support\
+                        \ / text-reinforces hierarchy, and the shared traits that\
+                        \ make it read as one illustrator's hand (same stroke weight,\
+                        \ same corner radius, same eye style, same spacing rhythm).\n\
+                        \n**5. Text and badge treatments**\nText is allowed and okay\
+                        \ to include. Briefly: when a word helps versus clutters,\
+                        \ a maximum letter count that stays cuttable, how to specify\
+                        \ literal text so it renders verbatim (quotes, exact casing),\
+                        \ the letterform to ask for, and when a badge ring earns its\
+                        \ place versus just boxing the mark in. Six bullets is plenty.\n\
+                        \n**6. Prompt architecture for step 2**\nThe most important\
+                        \ section, so spend your words here. Specify the exact template\
+                        \ the step-2 final prompt must follow \u2014 and state that\
+                        \ the finished prompt should land at **180\u2013250 words**,\
+                        \ long enough to carry the spec, short enough that no single\
+                        \ instruction gets diluted. Order it to match how the image\
+                        \ model weights a prompt:\n\n1. **Medium and style up front**\
+                        \ \u2014 the first sentence states it is a square black-and-white\
+                        \ line-art mascot logo, because opening words set the mode\
+                        \ for everything after.\n2. **Subject** \u2014 the mascot,\
+                        \ its identity, expression, pose.\n3. **Key details** \u2014\
+                        \ props, supporting motifs, any literal text in quotes.\n\
+                        4. **Layout** \u2014 centring, margins, hierarchy, where each\
+                        \ element sits.\n5. **Line and manufacturing spec** \u2014\
+                        \ stroke weight, closed paths, interior-detail limits.\n6.\
+                        \ **Exclusions last** \u2014 negatives go at the very end,\
+                        \ after every positive descriptor, because a model reading\
+                        \ them early tends to treat them as things to compose rather\
+                        \ than things to omit.\n\nGive the canonical exclusion list\
+                        \ to close with (no grey, no shading, no gradients, no halftone,\
+                        \ no dithering, no texture, no colour, no transparency, no\
+                        \ background scene, no drop shadow, no outer glow, no frame\
+                        \ border unless specified, no watermark, no signature, no\
+                        \ extra text beyond what is quoted).\n\nAlso state the two\
+                        \ facts the prompt must say in plain words no matter what:\
+                        \ the image is **square**, and it is **pure black on a pure\
+                        \ white background**.\n\n---\n\n## Response style and length\n\
+                        \n**About 900 words, 1,100 absolute maximum.** Bullets over\
+                        \ prose. Concrete and checkable over abstract and aspirational\
+                        \ \u2014 \"stroke no thinner than 1/100 of the square's width\"\
+                        \ beats \"confident lines\". No preamble, no restating this\
+                        \ brief back at me, no summary of what you are about to do.\
+                        \ Skip the caveats and the reasoning behind each rule; just\
+                        \ state the rule.\n\nClose with a checklist of the rules,\
+                        \ 12 lines at most, so step 2 can be graded against it.\n\n\
+                        Then stop. No final image prompt, no questions, no theme.\n"
+                -   command: ai_query
+                    delay: '240'
+                    mode_ai_wait: slow
+                    text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **an image\
+                        \ of packaging takeaway container circle 30 ml capacity 47\
+                        \ mm diameter 27 9 mm depth tamper evident systempak 2001\
+                        \ make Packaging Takeaway Container Circle 30 Ml Capacity\
+                        \ 47 Mm Diameter 27 9 Mm Depth Tamper Evident Systempak 2001\
+                        \ cute**\n\nApply the house style you just wrote to this theme.\
+                        \ Everything you need is now in hand. Generate the image during\
+                        \ this step without asking questions or waiting for another\
+                        \ message.\n\n---\n\n## Part A \u2014 private exploration\n\
+                        \nWork through these choices privately before calling the\
+                        \ image generation tool. Do not send the exploration as a\
+                        \ text response. Push past the theme's first obvious reading,\
+                        \ but do it briskly.\n\n- **Angles:** exactly four mascot\
+                        \ interpretations, **one or two sentences each**. Include\
+                        \ at least one that anthropomorphises an object or concept\
+                        \ from the theme rather than reaching for the obvious animal,\
+                        \ and at least one built on a visual pun. Then name your pick\
+                        \ in a single sentence saying why it beats the other three\
+                        \ \u2014 no full comparison table.\n- **The chosen design:**\
+                        \ one short paragraph fixing the pose, expression, props,\
+                        \ and line strategy. Prefer gesture or a moment of character\
+                        \ over a static front-on stare. Cut any prop that is decoration\
+                        \ rather than signal.\n- **Text:** one line \u2014 the exact\
+                        \ string in quotes with exact casing, or \"no text\". Text\
+                        \ is allowed and okay to include when it improves identification.\n\
+                        - **Trace and small-size check:** a short bullet list of fixes\
+                        \ only \u2014 every stroke to thicken, gap to widen, island\
+                        \ to bridge, detail to delete. Just the fixes, not the reasoning,\
+                        \ and not a description of what the design looks like at size.\n\
+                        \nSkip anything not on that list: no tradeoff essays, no runner-up\
+                        \ post-mortems, no notes on your own process.\n\n## Part B\
+                        \ \u2014 generate the image now\n\nWrite the final image-generation\
+                        \ prompt for the chosen direction and pass it directly to\
+                        \ the image generation tool in this step. Invoke the tool\
+                        \ exactly once. Do not return a text-only prompt, a fenced\
+                        \ code block, or a plan to generate later. Finish with the\
+                        \ generated image so it can be saved immediately from the\
+                        \ generation window.\n\nFollow the six-part architecture from\
+                        \ step 1 exactly, in order: medium and style \u2192 subject\
+                        \ \u2192 key details \u2192 layout \u2192 line and manufacturing\
+                        \ spec \u2192 exclusions last.\n\n**Length: 180\u2013250 words.**\
+                        \ Long enough to carry the full spec, short enough that no\
+                        \ single instruction gets diluted. If you are over, cut adjectives\
+                        \ and repeated style words before you cut any manufacturing\
+                        \ rule.\n\nHard requirements for that prompt:\n\n- It opens\
+                        \ by stating it is a **square black-and-white line-art mascot\
+                        \ logo**.\n- It says in plain words that the image is **square**\
+                        \ and **pure black on a pure white background**.\n- It states\
+                        \ stroke weight as a fraction of the image width, and requires\
+                        \ every shape to be a **closed path** with **no floating disconnected\
+                        \ islands**.\n- It caps interior detail explicitly and forbids\
+                        \ crosshatching, stippling, and hairline tapers.\n- Any literal\
+                        \ text appears in quotes with exact casing, spelled out character\
+                        \ by character if it is unusual.\n- The exclusion list comes\
+                        \ **last**, after every positive descriptor.\n- It is self-contained:\
+                        \ someone pasting it cold, with no memory of this conversation,\
+                        \ gets the same image. No \"as discussed above\", no \"the\
+                        \ mascot from earlier\".\n- One image-generation call only.\
+                        \ No variants, no alternates, and no extra text response after\
+                        \ the image.\n"
+                -   command: save_image_generated
+                    file_name: initial_generated.png
+                    mode_ai_wait: slow
+                -   command: close_tab
+                file_test: initial_generated.png
+                retries_until_complete: 0
+            oomlout_ai_roboclick_2:
+                actions:
+                -   command: new_chat
+                    description: step_2_create_image_chibi
+                -   command: ai_query
+                    delay: '240'
+                    mode_ai_wait: slow
+                    text: "## READ THIS FIRST \u2014 no theme is coming in this message,\
+                        \ and that is correct\n\nThis is **step 1 of 2**. It is deliberately\
+                        \ theme-free. You are building a reusable house style, not\
+                        \ designing a specific character.\n\nThe theme arrives in\
+                        \ step 2. Do **not** ask what the theme is. Do **not** ask\
+                        \ any clarifying questions. Do **not** write a final image-generation\
+                        \ prompt yet \u2014 you cannot, and attempting one is a failure\
+                        \ of this step. Do **not** invent a placeholder theme and\
+                        \ design for it. If you feel information is missing, that\
+                        \ is expected: the missing information is the theme, it is\
+                        \ coming next, and nothing in this step requires it.\n\nYour\
+                        \ entire output for this step is a **house style guide** that\
+                        \ will be applied to whatever theme arrives next.\n\n---\n\
+                        \n## The product this style serves\n\n**Intended use:** a\
+                        \ single hero image of one chibi character, rendered to look\
+                        \ like a **premium art-directed 3D collectible** \u2014 the\
+                        \ polish of a designer vinyl figure or a high-end animated\
+                        \ feature, not a flat illustration and not a photoreal creature.\n\
+                        \n**Target feel:** huggable, joyful, a little mischievous.\
+                        \ Instantly readable at thumbnail size. Full colour, clean\
+                        \ studio-style presentation, character as the unmistakable\
+                        \ focus.\n\n**The failure mode to design against:** generic\
+                        \ stock mascot \u2014 a symmetrical smiling blob standing\
+                        \ front-on against a gradient, with plastic-looking everything\
+                        \ and no idea of its own.\n\n---\n\n## What to produce\n\n\
+                        Six sections. **Budget: about 900 words total, 1,100 hard\
+                        \ ceiling** \u2014 roughly 100\u2013150 words each, section\
+                        \ 6 allowed the most. This is a working reference, not an\
+                        \ essay. Tight bullets, numbers wherever a number applies,\
+                        \ and cut any sentence that restates this brief back at me.\n\
+                        \n**1. Chibi proportion system**\nThe specific numbers that\
+                        \ make chibi read as cute rather than deformed: head-to-body\
+                        \ ratio range, eye size and spacing as a fraction of head\
+                        \ width, limb length and thickness, hand and foot simplification\
+                        \ level, where the centre of mass sits. State the ranges that\
+                        \ work and the ones that tip into uncanny.\n\n**2. Face and\
+                        \ expression**\nThe small set of levers that carry emotional\
+                        \ appeal \u2014 eye shape and highlight placement, brow presence,\
+                        \ mouth simplicity, cheek and blush restraint, head tilt.\
+                        \ One line each. Then a short do-not list: dead-eyed symmetrical\
+                        \ stares, over-detailed irises, realistic teeth, aggressive\
+                        \ or smug expressions, and the fix for each.\n\n**3. Pose\
+                        \ and silhouette**\nHow to get a pose that feels alive rather\
+                        \ than catalogued: weight shift, gesture line, asymmetry,\
+                        \ one clear action beat, a prop held rather than floated.\
+                        \ Plus the silhouette test \u2014 what to check so major forms\
+                        \ stay separate and readable when the image is 100 px wide.\n\
+                        \n**4. Material and lighting menu**\nThis is the main lever\
+                        \ for premium CGI feel, so be concrete. Give a named menu\
+                        \ of surfaces worth calling for \u2014 soft-touch matte vinyl,\
+                        \ glossy PVC, satin fabric, brushed metal, rubberised accents,\
+                        \ soft translucent resin, flocked or felted texture \u2014\
+                        \ and note what each contributes and where it goes wrong.\
+                        \ Then the lighting recipe: soft key, gentle fill, subtle\
+                        \ rim separation, clean controlled speculars, soft contact\
+                        \ shadow to ground the figure. Say why hard shadows, heavy\
+                        \ grain, and dramatic contrast all cheapen this style.\n\n\
+                        Also flag the vocabulary trap: words like *photorealistic*,\
+                        \ *real photograph*, and *taken on a real camera* engage the\
+                        \ model's photoreal mode and will drag the character toward\
+                        \ unsettling realism. The cues that actually land this style\
+                        \ are **stylized 3D render**, **premium designer vinyl collectible**,\
+                        \ **soft studio lighting**, and named materials.\n\n**5. Colour\
+                        \ and background**\nPalette discipline \u2014 a dominant colour,\
+                        \ one or two supports, one accent for the eye to land on.\
+                        \ Value separation between character and background. Background\
+                        \ stays a clean studio sweep or soft gradient with nothing\
+                        \ competing. Say how much colour saturation is joyful versus\
+                        \ garish.\n\n**6. Prompt architecture for step 2**\nThe most\
+                        \ important section, so spend your words here. Specify the\
+                        \ exact template the step-2 final prompt must follow. Use\
+                        \ **short labelled blocks**, not one long paragraph \u2014\
+                        \ that is the shape that holds up for character work:\n\n\
+                        ```\nConcept:      one line on the idea and the mood\nCharacter:\
+                        \    species/subject, proportions, face, expression, pose,\
+                        \ costume or markings\nDetails:      props and supporting\
+                        \ motifs, kept few\nStyle:        stylized 3D render, named\
+                        \ materials, surface finishes\nCamera:       framing, aspect,\
+                        \ angle, focal feel, character centred\nLighting:     key,\
+                        \ fill, rim, contact shadow\nBackground:   clean studio treatment\n\
+                        Constraints:  exclusions, LAST\n```\n\nState that the finished\
+                        \ prompt should land at **180\u2013250 words**, and that exclusions\
+                        \ always come last, after every positive descriptor \u2014\
+                        \ a model reading negatives early tends to treat them as things\
+                        \ to compose rather than things to omit.\n\nGive the canonical\
+                        \ exclusion list to close with: no photorealism, no realistic\
+                        \ human anatomy, no creepy or uncanny facial proportions,\
+                        \ no harsh shadows, no heavy film grain or noise, no busy\
+                        \ scenery, no clutter, no tiny unreadable detail, no muddy\
+                        \ or muddled textures, no watermark, no signature, no logos\
+                        \ or trademarks, no extra characters.\n\nAlso state the two\
+                        \ things the prompt must say in plain words no matter what:\
+                        \ it is a **fun chibi CGI-style render**, and the result should\
+                        \ read as **polished and premium**.\n\n---\n\n## Response\
+                        \ style and length\n\n**About 900 words, 1,100 absolute maximum.**\
+                        \ Bullets over prose. Concrete over aspirational \u2014 \"\
+                        head roughly 1/2 the total height\" beats \"oversized head\"\
+                        . No preamble, no restating this brief, no summary of what\
+                        \ you are about to do. Skip the reasoning behind each rule;\
+                        \ just state the rule.\n\nClose with a checklist of the rules,\
+                        \ 12 lines at most, so step 2 can be graded against it.\n\n\
+                        Then stop. No final image prompt, no questions, no theme.\n"
+                -   command: ai_query
+                    delay: '240'
+                    mode_ai_wait: slow
+                    text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **a fun\
+                        \ chibi CGI inspired picture of packaging takeaway container\
+                        \ circle 30 ml capacity 47 mm diameter 27 9 mm depth tamper\
+                        \ evident systempak 2001 make Packaging Takeaway Container\
+                        \ Circle 30 Ml Capacity 47 Mm Diameter 27 9 Mm Depth Tamper\
+                        \ Evident Systempak 2001 cute**\n\nApply the house style you\
+                        \ just wrote to this theme. If the theme above already arrives\
+                        \ wrapped in wording like \"a fun chibi CGI inspired picture\
+                        \ of\u2026\", treat only the subject inside it as the theme\
+                        \ \u2014 the chibi CGI part is already covered by your style\
+                        \ guide. Everything you need is now in hand. Generate the\
+                        \ image during this step without asking questions or waiting\
+                        \ for another message.\n\n---\n\n## Part A \u2014 private\
+                        \ exploration\n\nWork through these choices privately before\
+                        \ calling the image generation tool. Do not send the exploration\
+                        \ as a text response. Push past the theme's first obvious\
+                        \ reading, but do it briskly.\n\n- **Angles:** exactly four\
+                        \ character interpretations, **one or two sentences each**.\
+                        \ Include at least one that anthropomorphises an object or\
+                        \ concept from the theme rather than reaching for the obvious\
+                        \ animal, and at least one built on a small joke or a story\
+                        \ beat. Then name your pick in a single sentence saying why\
+                        \ it beats the other three \u2014 no full comparison table.\n\
+                        - **The chosen character:** one short paragraph fixing proportions,\
+                        \ face and expression, pose and gesture, costume or markings,\
+                        \ and the one or two props that earn their place. Give it\
+                        \ a personality in a few words, not a description of a shape.\n\
+                        - **Materials and palette:** a short bullet list \u2014 which\
+                        \ named surface goes on which part of the character, the dominant\
+                        \ colour, the supports, and the single accent. This is the\
+                        \ premium-feel lever, so be specific.\n- **Readability fixes:**\
+                        \ a short bullet list only \u2014 every form to enlarge, separate,\
+                        \ simplify, or delete so the silhouette holds at thumbnail\
+                        \ size. Just the fixes, not the reasoning.\n\nSkip anything\
+                        \ not on that list: no tradeoff essays, no runner-up post-mortems,\
+                        \ no notes on your own process.\n\n## Part B \u2014 generate\
+                        \ the image now\n\nWrite the final image-generation prompt\
+                        \ for the chosen character and pass it directly to the image\
+                        \ generation tool in this step. Invoke the tool exactly once.\
+                        \ Do not return a text-only prompt, a fenced code block, or\
+                        \ a plan to generate later. Finish with the generated image\
+                        \ so it can be saved immediately from the generation window.\n\
+                        \nUse the labelled-block template from step 1 in order: Concept\
+                        \ \u2192 Character \u2192 Details \u2192 Style \u2192 Camera\
+                        \ \u2192 Lighting \u2192 Background \u2192 Constraints last.\n\
+                        \n**Length: 180\u2013250 words.** Long enough to carry the\
+                        \ full spec, short enough that no single instruction gets\
+                        \ diluted. If you are over, cut adjectives and repeated style\
+                        \ words before you cut any material, lighting, or framing\
+                        \ rule.\n\nHard requirements for that prompt:\n\n- It states\
+                        \ plainly that this is a **fun chibi CGI-style render**, **polished\
+                        \ and premium**.\n- It gives the head-to-body ratio and the\
+                        \ framing and aspect explicitly, with the character **centred\
+                        \ as the hero**.\n- It names **specific materials and finishes**\
+                        \ per part rather than saying \"3D style\", and gives the\
+                        \ lighting recipe \u2014 soft key, gentle fill, rim separation,\
+                        \ soft contact shadow.\n- It avoids the photoreal trigger\
+                        \ words entirely \u2014 no *photorealistic*, no *real photograph*,\
+                        \ no *shot on camera*.\n- It specifies a clean studio background\
+                        \ with nothing competing for attention.\n- The exclusion list\
+                        \ comes **last**, after every positive descriptor, and includes\
+                        \ no text and no watermark.\n- It is self-contained: someone\
+                        \ pasting it cold, with no memory of this conversation, gets\
+                        \ the same image. No \"as described above\", no \"the character\
+                        \ from earlier\".\n- One image-generation call only. No variants,\
+                        \ no alternates, and no extra text response after the image.\n"
+                -   command: save_image_generated
+                    file_name: initial_generated_chibi.png
+                    mode_ai_wait: slow
+                -   command: close_tab
+                file_test: initial_generated_chibi.png
+                retries_until_complete: 0
+            source_shape: round
+            source_title: 25ml Round 47mm Diameter Standard Tamper Evident Containers
+                and Lids
+            systempak_additional_information:
+                Brand: SystemPAK
+                Capacity: 30ml
+                Colour: Clear
+                Containers Quantity: 'Bulk: 3774 Containers, Bulk: 4080 Lids'
+                Dimensions: N/A
+                Info: Microwavable Hot Filled to 85c and sterilised to 120c Excellent
+                    heat resistance properties. Tamper evident lid included in the
+                    price.
+                Material: Polypropylene
+                Product Type: Tamper Evident Containers
+                Shape: Round
+                Weight: N/A
+            systempak_dimensions:
+                depth_mm: '47'
+                height_mm: '27.9'
+                width_mm: '47'
+            systempak_size: "\xD847 \xD7 27.9 mm"
+            taxonomy_1: packaging
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: systempak
+            taxonomy_15: '2001'
+            taxonomy_2: takeaway_container
+            taxonomy_3: circle
+            taxonomy_4: 30_ml_capacity
+            taxonomy_5: 47_mm_diameter
+            taxonomy_6: 27_9_mm_depth
+            taxonomy_7: tamper_evident
+            taxonomy_8: ''
+            taxonomy_9: ''
+            url_chat: https://chatgpt.com/c/6ac3ffea-56cc-83ed-8d38-4ae22565e0ea
+            url_source: https://systempak.net/product/25ml-round-clear-tamper-evident-container-lids/
+            url_technical_sheet: https://systempak.net/wp-content/uploads/2024/04/TDS-2001-25ML.pdf
+        dict_data_files: {}
+        dict_data_files_exists: {}
+        file_output: label_oomp.svg
+        file_template: C:\od\OneDrive\docs\oomp_packaging\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+    retries_until_complete: 0
+oomp_key: oomp_packaging_takeaway_container_circle_30_ml_capacity_47_mm_diameter_27_9_mm_depth_tamper_evident_systempak_2001
+run_action: true
+run_oomp: true
+run_oomp_populate: true
+run_scad: false
+source_shape: round
+source_title: 25ml Round 47mm Diameter Standard Tamper Evident Containers and Lids
+systempak_additional_information:
+    Brand: SystemPAK
+    Capacity: 30ml
+    Colour: Clear
+    Containers Quantity: 'Bulk: 3774 Containers, Bulk: 4080 Lids'
+    Dimensions: N/A
+    Info: Microwavable Hot Filled to 85c and sterilised to 120c Excellent heat resistance
+        properties. Tamper evident lid included in the price.
+    Material: Polypropylene
+    Product Type: Tamper Evident Containers
+    Shape: Round
+    Weight: N/A
+systempak_dimensions:
+    depth_mm: '47'
+    height_mm: '27.9'
+    width_mm: '47'
+systempak_size: "\xD847 \xD7 27.9 mm"
+taxonomy_1: packaging
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: systempak
+taxonomy_14_capital: Systempak
+taxonomy_14_first_letter: s
+taxonomy_14_first_letter_upper: S
+taxonomy_14_length_1: s
+taxonomy_14_length_2: sy
+taxonomy_14_length_3: sys
+taxonomy_14_length_4: syst
+taxonomy_14_length_5: syste
+taxonomy_14_upper: SYSTEMPAK
+taxonomy_14_upper_length_1: S
+taxonomy_14_upper_length_2: SY
+taxonomy_14_upper_length_3: SYS
+taxonomy_14_upper_length_4: SYST
+taxonomy_14_upper_length_5: SYSTE
+taxonomy_15: '2001'
+taxonomy_15_capital: '2001'
+taxonomy_15_first_letter: '2'
+taxonomy_15_first_letter_upper: '2'
+taxonomy_15_length_1: '2'
+taxonomy_15_length_2: '20'
+taxonomy_15_length_3: '200'
+taxonomy_15_length_4: '2001'
+taxonomy_15_length_5: '2001'
+taxonomy_15_upper: '2001'
+taxonomy_15_upper_length_1: '2'
+taxonomy_15_upper_length_2: '20'
+taxonomy_15_upper_length_3: '200'
+taxonomy_15_upper_length_4: '2001'
+taxonomy_15_upper_length_5: '2001'
+taxonomy_1_capital: Packaging
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pac
+taxonomy_1_length_4: pack
+taxonomy_1_length_5: packa
+taxonomy_1_upper: PACKAGING
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAC
+taxonomy_1_upper_length_4: PACK
+taxonomy_1_upper_length_5: PACKA
+taxonomy_2: takeaway_container
+taxonomy_2_capital: Takeaway Container
+taxonomy_2_first_letter: t
+taxonomy_2_first_letter_upper: T
+taxonomy_2_length_1: t
+taxonomy_2_length_2: ta
+taxonomy_2_length_3: tak
+taxonomy_2_length_4: take
+taxonomy_2_length_5: takea
+taxonomy_2_upper: TAKEAWAY_CONTAINER
+taxonomy_2_upper_length_1: T
+taxonomy_2_upper_length_2: TA
+taxonomy_2_upper_length_3: TAK
+taxonomy_2_upper_length_4: TAKE
+taxonomy_2_upper_length_5: TAKEA
+taxonomy_3: circle
+taxonomy_3_capital: Circle
+taxonomy_3_first_letter: c
+taxonomy_3_first_letter_upper: C
+taxonomy_3_length_1: c
+taxonomy_3_length_2: ci
+taxonomy_3_length_3: cir
+taxonomy_3_length_4: circ
+taxonomy_3_length_5: circl
+taxonomy_3_upper: CIRCLE
+taxonomy_3_upper_length_1: C
+taxonomy_3_upper_length_2: CI
+taxonomy_3_upper_length_3: CIR
+taxonomy_3_upper_length_4: CIRC
+taxonomy_3_upper_length_5: CIRCL
+taxonomy_4: 30_ml_capacity
+taxonomy_4_capital: 30 Ml Capacity
+taxonomy_4_first_letter: '3'
+taxonomy_4_first_letter_upper: '3'
+taxonomy_4_length_1: '3'
+taxonomy_4_length_2: '30'
+taxonomy_4_length_3: '30_'
+taxonomy_4_length_4: 30_m
+taxonomy_4_length_5: 30_ml
+taxonomy_4_upper: 30_ML_CAPACITY
+taxonomy_4_upper_length_1: '3'
+taxonomy_4_upper_length_2: '30'
+taxonomy_4_upper_length_3: '30_'
+taxonomy_4_upper_length_4: 30_M
+taxonomy_4_upper_length_5: 30_ML
+taxonomy_5: 47_mm_diameter
+taxonomy_5_capital: 47 mm Diameter
+taxonomy_5_first_letter: '4'
+taxonomy_5_first_letter_upper: '4'
+taxonomy_5_length_1: '4'
+taxonomy_5_length_2: '47'
+taxonomy_5_length_3: '47_'
+taxonomy_5_length_4: 47_m
+taxonomy_5_length_5: 47_mm
+taxonomy_5_upper: 47_MM_DIAMETER
+taxonomy_5_upper_length_1: '4'
+taxonomy_5_upper_length_2: '47'
+taxonomy_5_upper_length_3: '47_'
+taxonomy_5_upper_length_4: 47_M
+taxonomy_5_upper_length_5: 47_MM
+taxonomy_6: 27_9_mm_depth
+taxonomy_6_capital: 27.9 mm Depth
+taxonomy_6_first_letter: '2'
+taxonomy_6_first_letter_upper: '2'
+taxonomy_6_length_1: '2'
+taxonomy_6_length_2: '27'
+taxonomy_6_length_3: '27_'
+taxonomy_6_length_4: '27_9'
+taxonomy_6_length_5: '27_9_'
+taxonomy_6_upper: 27_9_MM_DEPTH
+taxonomy_6_upper_length_1: '2'
+taxonomy_6_upper_length_2: '27'
+taxonomy_6_upper_length_3: '27_'
+taxonomy_6_upper_length_4: '27_9'
+taxonomy_6_upper_length_5: '27_9_'
+taxonomy_7: tamper_evident
+taxonomy_7_capital: Tamper Evident
+taxonomy_7_first_letter: t
+taxonomy_7_first_letter_upper: T
+taxonomy_7_length_1: t
+taxonomy_7_length_2: ta
+taxonomy_7_length_3: tam
+taxonomy_7_length_4: tamp
+taxonomy_7_length_5: tampe
+taxonomy_7_upper: TAMPER_EVIDENT
+taxonomy_7_upper_length_1: T
+taxonomy_7_upper_length_2: TA
+taxonomy_7_upper_length_3: TAM
+taxonomy_7_upper_length_4: TAMP
+taxonomy_7_upper_length_5: TAMPE
+taxonomy_8: ''
+taxonomy_9: ''
+url_chat: https://chatgpt.com/c/6ac3ffea-56cc-83ed-8d38-4ae22565e0ea
+url_source: https://systempak.net/product/25ml-round-clear-tamper-evident-container-lids/
+url_technical_sheet: https://systempak.net/wp-content/uploads/2024/04/TDS-2001-25ML.pdf

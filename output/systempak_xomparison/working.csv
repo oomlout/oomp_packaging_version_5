@@ -1,0 +1,69 @@
+﻿size,id_number,capacity_ml,width_mm,height_mm,depth_mm,categories
+47 mm,2001,30,47,,,packaging; takeaway_container; circle; tamper_evident; systempak
+47 mm,2002,50,47,,,packaging; takeaway_container; circle; tamper_evident; systempak
+W 69mm x H 37mm,2003,80,69,,37,packaging; takeaway_container; circle; tamper_evident; systempak
+W 69mm x H 36mm,2004,90,69,,36,packaging; takeaway_container; circle; tamper_evident; systempak
+L 109mm x W 86mm x H 29mm,209,100,109,86,29,packaging; takeaway_container; rectangle; systempak
+W 69mm x H 52mm,2005,120,69,,52,packaging; takeaway_container; circle; tamper_evident; systempak
+L 109mm x W 86mm x H 29mm,210,150,109,86,29,packaging; takeaway_container; rectangle; systempak
+L 111m x W 83mm x H 34.6mm,5008w,150,111,83,34.6,packaging; takeaway_container; rectangle; systempak
+W 69 x H 68mm,2006,155,69,,68,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 39mm,2008,165,95,,39,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 45mm,2009,180,95,,45,packaging; takeaway_container; circle; tamper_evident; systempak
+L 109mm x W 86mm x H 35mm,211,200,109,86,35,packaging; takeaway_container; rectangle; systempak
+W 95mm x H 45mm,2010,210,95,,45,packaging; takeaway_container; circle; tamper_evident; systempak
+W 118mm x H 50mm,2017,210,118,,50,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 50mm,2033,240,95,,50,packaging; takeaway_container; circle; tamper_evident; systempak
+L 109mm x W 86mm x H 40mm,212,250,109,86,40,packaging; takeaway_container; rectangle; systempak
+W 95mm x H 62mm,2011,280,95,,62,packaging; takeaway_container; circle; tamper_evident; systempak
+L 118mm x W 88mm x H42mm,2102,280,118,88,42,packaging; takeaway_container; rectangle; systempak
+L 120mm x W 90mm x H 40mm,2102wfg,280,120,90,40,packaging; takeaway_container; rectangle; systempak
+W 118mm x H 50mm,2018,300,118,,50,packaging; takeaway_container; circle; tamper_evident; systempak
+L 109mm W 86mm x H 52mm,213,300,109,86,52,packaging; takeaway_container; rectangle; systempak
+W 95mm x H 85mm,2013,365,95,,85,packaging; takeaway_container; circle; tamper_evident; systempak
+W 118mm x H 68mm,2019,480,118,,68,packaging; takeaway_container; circle; tamper_evident; systempak
+L 120mm x W 90mm x H 70mm,2109,480,120,90,70,packaging; takeaway_container; rectangle; systempak
+L 120mm x W 90mm x H 70mm,2109w,480,120,90,70,packaging; takeaway_container; rectangle; systempak
+"L 184.5mm x W 118mm x H 38mm, L 192mm x W 128mm x H 35mm",2103,500,184.5,118,38,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 35mm,2103wfg,500,192,128,35,packaging; takeaway_container; rectangle; systempak
+L 118mm x W 89mm x H 76mm,215,500,118,89,76,packaging; takeaway_container; rectangle; systempak
+L 118mm x W 89mm x H 76mm,215w,500,118,89,76,packaging; takeaway_container; rectangle; systempak
+W 95mm x H 115mm,2015,520,95,,115,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 115mm,2015cala,520,,,115,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 114mm,2015w,520,95,,114,packaging; takeaway_container; circle; tamper_evident; systempak
+W 95mm x H 115mm,2039,520,97,,115,packaging; takeaway_container; circle; tamper_evident; systempak
+,214,550,,,,packaging; takeaway_container; rectangle; systempak
+W 118mm x H 80mm,2020,565,118,,80,packaging; takeaway_container; circle; tamper_evident; systempak
+W 105mm x H 135mm,254,670,105,,135,packaging; takeaway_container; circle; tamper_evident; systempak
+L 192mm x W 128mm x H 45mm,2104,750,192,128,45,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 45mm,2104b,750,192,128,45,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 45mm,2104fg,750,192,128,45,packaging; takeaway_container; rectangle; systempak
+W 133mm x H 88mm,2025,800,133,,88,packaging; takeaway_container; circle; tamper_evident; systempak
+W 133mm x H 108mm,2026,1000,131,,108,packaging; takeaway_container; circle; tamper_evident; systempak
+L 192mm x W 128mm x H 60mm,2105,1000,192,128,60,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 60mm,2105w,1000,192,128,60,packaging; takeaway_container; rectangle; systempak
+W 133mm x H 108mm,2027c,1150,131,,108,packaging; takeaway_container; circle; tamper_evident; systempak
+L 192mm x W 128mm x H 72mm,2106,1200,192,128,72,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 72mm,2106w,1200,192,128,72,packaging; takeaway_container; rectangle; systempak
+L 160mm x W 160mm x H 70mm,219,1200,160,160,70,packaging; takeaway_container; rectangle; systempak
+190 x 125 x 70mm,217,1300,190,125,70,packaging; takeaway_container; rectangle; systempak
+W 165mm x H 155mm,2029,1500,165,,155,packaging; takeaway_container; circle; tamper_evident; systempak
+L 195mm x W 195mm x H 62mm,2303,1500,195,195,62,packaging; takeaway_container; rectangle; systempak
+L 192mm x W 128mm x H 95mm,2107,1600,192,128,95,packaging; takeaway_container; rectangle; systempak
+W 150mm x H 138.6mm,2038,1750,150,,138.6,packaging; takeaway_container; circle; tamper_evident; systempak
+W 160mm x H 155mm,2031,2000,170,,155,packaging; takeaway_container; circle; tamper_evident; systempak
+L 185mm x W 140mm x H 110mm,2108,2000,185,140,110,packaging; takeaway_container; rectangle; systempak
+L 195mm x W 195mm x H 76mm,2304,2000,195,195,76,packaging; takeaway_container; rectangle; systempak
+190 x 125 x 134mm,218,2200,190,125,134,packaging; takeaway_container; rectangle; systempak
+L 171mm x W 147mm x H 139mm,2111,2500,171,147,139,packaging; takeaway_container; rectangle; systempak
+L 195mm x W 195mm x H 90mm,2305,2500,195,195,90,packaging; takeaway_container; rectangle; systempak
+L 195mm x W 195mm x H 118mm,2306,3000,195,195,118,packaging; takeaway_container; rectangle; systempak
+W 200mm x H 154mm,2400c,3000,200,,154,packaging; takeaway_container; circle; tamper_evident; systempak
+W 200mm x H 154mm,2400w,3000,200,,154,packaging; takeaway_container; circle; tamper_evident; systempak
+L 343mm x W 151mm x H 131mm,2112,5000,343,151,131,packaging; takeaway_container; rectangle; systempak
+L 195mm x W 195mm x H 152mm,2308,5000,195,195,152,packaging; takeaway_container; rectangle; systempak
+W 226mm x H 182mm,2401c,5500,214,,182,packaging; takeaway_container; circle; tamper_evident; systempak
+W 226mm x H 182mm,2401w,5500,214,,182,packaging; takeaway_container; circle; tamper_evident; systempak
+W 278mm x H 230mm,2402w,10000,278,,230,packaging; takeaway_container; circle; tamper_evident; systempak
+W 310mm x H 330mm,2403c,20000,310,,330,packaging; takeaway_container; circle; tamper_evident; systempak
+W 310mm x H 330mm,2403w,20000,310,,330,packaging; takeaway_container; circle; tamper_evident; systempak
