@@ -134,5 +134,5 @@ def build_registered(selector=None, export=True):
         record = yaml.safe_load(file.read_text(encoding="utf-8"))
         if record.get("model_profile"):
             build(file.parent, record["model_profile"], export)
-        elif selector:
+        elif selector and record.get("taxonomy_2") != "dolly":
             raise ValueError(f"No packaging model registered for {selector}")

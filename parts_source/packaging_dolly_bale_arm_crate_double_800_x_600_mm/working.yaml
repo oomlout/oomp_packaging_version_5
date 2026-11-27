@@ -1,0 +1,34 @@
+listing_note: Carries two stacks of 600 × 400 mm crates or four stacks of 400 × 300
+  mm crates. Listed unit weight 9.7 kg.
+material: Polypropylene
+model_dimensions:
+  deck: 42
+  height: 171
+  length: 798
+  wheel: 100
+  width: 598
+model_note: Black deck with two openings and red retainers. Deck thickness, openings,
+  clips, and castor positions are approximate. The model simplifies the wheel mounts
+  and omits brake hardware.
+supplier: Plastic Box Sales
+supplier_reference: u800.600 dolly-1
+taxonomy_1: packaging
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: dolly
+taxonomy_3: bale_arm_crate_double
+taxonomy_4: 800_x_600_mm
+taxonomy_5: ''
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+title: Double bale-arm crate dolly
+url_source: https://plasticboxsales.co.uk/product/800x600-plastic-double-dolly/
+wheel_basis: listed
+wheel_layout: Four nylon wheels. The description specifies two fixed, one swivel and
+  one braked swivel. The specifications table says four swivel.

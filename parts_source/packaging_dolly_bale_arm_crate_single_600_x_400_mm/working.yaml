@@ -1,0 +1,35 @@
+listing_note: Fits 600 × 400 or 400 × 300 mm crates. Listed unit weight 4 kg. Sold
+  in packs of three.
+material: HDPE
+model_dimensions:
+  deck: 30
+  height: 170
+  length: 610
+  seat_depth: 23
+  seat_length: 603
+  seat_width: 405
+  wheel: 100
+  width: 410
+model_note: Yellow example with a central opening and a raised retaining rim. Opening
+  shape, deck thickness, and castor placement are approximate.
+supplier: Plastic Box Sales
+supplier_reference: u60.40 dolly
+taxonomy_1: packaging
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: dolly
+taxonomy_3: bale_arm_crate_single
+taxonomy_4: 600_x_400_mm
+taxonomy_5: ''
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+title: Single bale-arm crate dolly
+url_source: https://plasticboxsales.co.uk/product/plastic-dolly-600x400-single-or-400x300-boxes-and-crates/
+wheel_basis: listed
+wheel_layout: Four swivel castors

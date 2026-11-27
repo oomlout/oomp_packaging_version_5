@@ -1,6 +1,9 @@
 import copy
 
 def main(**kwargs):
+    kwargs["run_svg"] = kwargs.get("run_svg", True)
+    kwargs["run_blender"] = kwargs.get("run_blender", True)
+    kwargs["run_readme"] = kwargs.get("run_readme", True)
     run_oomp_populate = kwargs.get("run_oomp_populate", True)
     #run_oomp_populate = False
     kwargs["run_oomp_populate"] = run_oomp_populate
@@ -24,6 +27,9 @@ def main(**kwargs):
     run(**kwargs)
 
 def run(**kwargs):
+    run_svg = kwargs.get("run_svg", False)
+    run_blender = kwargs.get("run_blender", False)
+    run_readme = kwargs.get("run_readme", False)
 
     if kwargs.get("run_oomp_populate", True):
         import working_oomp_populate
@@ -43,6 +49,16 @@ def run(**kwargs):
     if kwargs.get("run_action", True):
         import working_action
         working_action.main(**kwargs)    
+
+    if run_svg:
+        import working_svg
+        working_svg.main(**kwargs)
+    if run_blender:
+        import working_blender
+        working_blender.main(**kwargs)
+    if run_readme:
+        import working_readme
+        working_readme.main(**kwargs)
 
 
 

@@ -5,9 +5,13 @@ import os
 import scad_help
 
 def main(**kwargs):
+    model_id = kwargs.get("model_id")
+    generate_stl = kwargs.get("generate_stl", kwargs.get("typ") == "all")
+    from dolly_model import build_dollies
     from systempak_model import build_registered
-    build_registered(kwargs.get("model_id"), kwargs.get("generate_stl", kwargs.get("typ") == "all"))
-    if not kwargs.get("model_id"):
+    build_registered(model_id, generate_stl)
+    build_dollies(**kwargs)
+    if not model_id:
         make_scad(**kwargs)
 
 def make_scad(**kwargs):

@@ -13,6 +13,8 @@ def load_parts(**kwargs):
     create_generic(**kwargs)
 
 def create_generic(**kwargs):
+    make_files = kwargs.get("make_files", True)
+    wait_for_completion = kwargs.get("wait_for_completion", True)
     print(f"  loading parts from part_source")
     things = {}    
     
@@ -56,8 +58,6 @@ def create_generic(**kwargs):
         
         folder = oomlout_roboclick.get_directory(part)   
         part["directory"] = folder  
-        url_chat = oomlout_roboclick.get_url(part)   
-        part["url_chat"] = url_chat
         files_to_trace = []
         count = 0
 
@@ -72,6 +72,13 @@ def create_generic(**kwargs):
                     data = yaml.safe_load(file)
                     for deet in data:
                         part[deet] = data[deet]
+
+        if part.get("taxonomy_2") == "dolly":
+            # The following CAD and drawing stages consume this record immediately.
+            oomp.add_parts([part], make_files=make_files, wait_for_completion=True)
+            continue
+
+        part["url_chat"] = oomlout_roboclick.get_url(part)
 
         #working with variables
         if True:
@@ -210,6 +217,7 @@ def create_generic(**kwargs):
 
 
 
+    kwargs["wait_for_completion"] = wait_for_completion
     oomp.add_parts(parts, **kwargs)
 
     #dd file copy
@@ -228,8 +236,6 @@ def create_generic(**kwargs):
                     except Exception as e:
                         print(f"      error copying file: {e}") 
 
-    import time
-    time.sleep(2)
 
 
 

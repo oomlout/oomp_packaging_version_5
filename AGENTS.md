@@ -26,7 +26,7 @@ def get_bag_sizes(**kwargs):
 
 Keep supplier refreshes explicit. Packaging already saves the SystemPAK catalogue at `source_file/systempak_tamper_evident_catalogue.yaml`. Ordinary population reads that snapshot. To verify a new output, rebuild a representative part from saved inputs, check the result, and rerun to confirm it can be reproduced. For a registered packaging CAD model the scoped command is `python action_make_all.py --part <canonical_id>`.
 
-The existing full packaging build calls `working_action.py`, which invokes Roboclick in AI mode. Account for that legacy step when verifying unattended regeneration. New outputs must build from their saved inputs without requiring AI.
+The default `action_make_all.py` rebuilds catalogue outputs without running Roboclick. Pass `--legacy-actions` on a full build to run the old AI and Corel actions. Dolly CAD, dimensioned drawings and Blender renders build from the saved family declarations.
 
 ## Examples in sibling checkouts
 

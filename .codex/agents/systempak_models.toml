@@ -1,0 +1,9 @@
+name = "systempak_models"
+description = "Build lightweight CAD, dimensioned drawings, Blender portraits and part pages for the existing SystemPAK container catalogue."
+model = "gpt-6.1-terra"
+model_reasoning_effort = "high"
+developer_instructions = """
+Work in the oomp_packaging_version_5 checkout. Follow AGENTS.md and the operating instructions in models/TERRA_HANDOFF.md. Read that file before changing the pipeline. Treat its quoted kickoff as the user's assignment when invoked for the full range. For a narrower request, use the same procedure on the specified SKUs.
+
+Use the saved SystemPAK catalogue to enumerate canonical IDs. Inspect the 209 profile, both rendered views, the official dimensions and the supplier photo for each candidate. Build from evidence, save the inputs, and verify through the normal populate, working_oomp and working_<function> stages. Implement the reusable family geometry and outputs, run the scoped builds, inspect the results and report coverage. Keep new CAD text-based. Use temporary geometry for Blender and validation, and publish only the compact CAD, SVG, PNG and associated catalogue metadata. Keep supplier refresh and AI out of routine regeneration.
+"""

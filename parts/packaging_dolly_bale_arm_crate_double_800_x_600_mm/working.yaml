@@ -1,0 +1,145 @@
+bip_39_2_word_array:
+- often
+- vague
+bip_39_2_word_no_space: oftenvague
+bip_39_2_word_space: often vague
+bip_39_2_word_underscore: often_vague
+bip_39_3_word_array:
+- often
+- vague
+- inject
+bip_39_3_word_no_space: oftenvagueinject
+bip_39_3_word_space: often vague inject
+bip_39_3_word_underscore: often_vague_inject
+bip_39_full_array:
+- often
+- vague
+- inject
+- pill
+- lunar
+- acid
+- drill
+- cabbage
+- pact
+- assault
+- end
+- enough
+bip_39_full_no_space: oftenvagueinjectpilllunaraciddrillcabbagepactassaultendenough
+bip_39_full_space: often vague inject pill lunar acid drill cabbage pact assault end
+    enough
+bip_39_full_underscore: often_vague_inject_pill_lunar_acid_drill_cabbage_pact_assault_end_enough
+directory: parts/packaging_dolly_bale_arm_crate_double_800_x_600_mm
+id: packaging_dolly_bale_arm_crate_double_800_x_600_mm
+id_no_class: packaging_dolly_bale_arm_crate_double_800_x_600_mm
+id_no_size: packaging_dolly_bale_arm_crate_double_800_x_600_mm
+id_no_type: packaging_dolly_bale_arm_crate_double_800_x_600_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_dolly_bale_arm_crate_double_800_x_600_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_dolly_bale_arm_crate_double_800_x_600_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_dolly_bale_arm_crate_double_800_x_600_mm
+listing_note: "Carries two stacks of 600 \xD7 400 mm crates or four stacks of 400\
+    \ \xD7 300 mm crates. Listed unit weight 9.7 kg."
+material: Polypropylene
+md5: 99be15d052685003d0b8fd9ea1b12625
+md5_10: 99be15d052
+md5_10_upper: 99BE15D052
+md5_5: 99be1
+md5_5_upper: 99BE1
+md5_6: 99be15
+md5_6_alpha: 5zyfp
+md5_6_alpha_upper: 5ZYFP
+md5_6_upper: 99BE15
+model_dimensions:
+    deck: 42
+    height: 171
+    length: 798
+    wheel: 100
+    width: 598
+model_note: Black deck with two openings and red retainers. Deck thickness, openings,
+    clips, and castor positions are approximate. The model simplifies the wheel mounts
+    and omits brake hardware.
+name: Packaging Dolly Bale Arm Crate Double 800 X 600 Mm
+name_no_class: Packaging Dolly Bale Arm Crate Double 800 X 600 Mm
+name_no_size: Packaging Dolly Bale Arm Crate Double 800 X 600 Mm
+name_no_type: Packaging Dolly Bale Arm Crate Double 800 X 600 Mm
+name_proper: Packaging Dolly Bale Arm Crate Double 800 X 600 Mm
+name_space: packaging dolly bale arm crate double 800 x 600 mm
+name_upper: PACKAGING DOLLY BALE ARM CRATE DOUBLE 800 X 600 MM
+oomp_key: oomp_packaging_dolly_bale_arm_crate_double_800_x_600_mm
+supplier: Plastic Box Sales
+supplier_reference: u800.600 dolly-1
+taxonomy_1: packaging
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Packaging
+taxonomy_1_first_letter: p
+taxonomy_1_first_letter_upper: P
+taxonomy_1_length_1: p
+taxonomy_1_length_2: pa
+taxonomy_1_length_3: pac
+taxonomy_1_length_4: pack
+taxonomy_1_length_5: packa
+taxonomy_1_upper: PACKAGING
+taxonomy_1_upper_length_1: P
+taxonomy_1_upper_length_2: PA
+taxonomy_1_upper_length_3: PAC
+taxonomy_1_upper_length_4: PACK
+taxonomy_1_upper_length_5: PACKA
+taxonomy_2: dolly
+taxonomy_2_capital: Dolly
+taxonomy_2_first_letter: d
+taxonomy_2_first_letter_upper: D
+taxonomy_2_length_1: d
+taxonomy_2_length_2: do
+taxonomy_2_length_3: dol
+taxonomy_2_length_4: doll
+taxonomy_2_length_5: dolly
+taxonomy_2_upper: DOLLY
+taxonomy_2_upper_length_1: D
+taxonomy_2_upper_length_2: DO
+taxonomy_2_upper_length_3: DOL
+taxonomy_2_upper_length_4: DOLL
+taxonomy_2_upper_length_5: DOLLY
+taxonomy_3: bale_arm_crate_double
+taxonomy_3_capital: Bale Arm Crate Double
+taxonomy_3_first_letter: b
+taxonomy_3_first_letter_upper: B
+taxonomy_3_length_1: b
+taxonomy_3_length_2: ba
+taxonomy_3_length_3: bal
+taxonomy_3_length_4: bale
+taxonomy_3_length_5: bale_
+taxonomy_3_upper: BALE_ARM_CRATE_DOUBLE
+taxonomy_3_upper_length_1: B
+taxonomy_3_upper_length_2: BA
+taxonomy_3_upper_length_3: BAL
+taxonomy_3_upper_length_4: BALE
+taxonomy_3_upper_length_5: BALE_
+taxonomy_4: 800_x_600_mm
+taxonomy_4_capital: 800 x 600 mm
+taxonomy_4_first_letter: '8'
+taxonomy_4_first_letter_upper: '8'
+taxonomy_4_length_1: '8'
+taxonomy_4_length_2: '80'
+taxonomy_4_length_3: '800'
+taxonomy_4_length_4: '800_'
+taxonomy_4_length_5: 800_x
+taxonomy_4_upper: 800_X_600_MM
+taxonomy_4_upper_length_1: '8'
+taxonomy_4_upper_length_2: '80'
+taxonomy_4_upper_length_3: '800'
+taxonomy_4_upper_length_4: '800_'
+taxonomy_4_upper_length_5: 800_X
+taxonomy_5: ''
+taxonomy_6: ''
+taxonomy_7: ''
+taxonomy_8: ''
+taxonomy_9: ''
+title: Double bale-arm crate dolly
+url_source: https://plasticboxsales.co.uk/product/800x600-plastic-double-dolly/
+wheel_basis: listed
+wheel_layout: Four nylon wheels. The description specifies two fixed, one swivel and
+    one braked swivel. The specifications table says four swivel.
