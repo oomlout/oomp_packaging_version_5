@@ -29,11 +29,12 @@ bip_39_full_space: oil sister bleak expect attract wonder explain expand jazz an
     flower betray
 bip_39_full_underscore: oil_sister_bleak_expect_attract_wonder_explain_expand_jazz_angry_flower_betray
 directory: parts/packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
-generate_stl: false
+generate_stl: true
 id: packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 id_no_class: packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 id_no_size: packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 id_no_type: packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
+legacy_actions: false
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
@@ -46,6 +47,7 @@ md5_6: 99d930
 md5_6_alpha: 603sg
 md5_6_alpha_upper: 603SG
 md5_6_upper: 99D930
+model_id: packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
 name: Packaging Takeaway Container Circle 180 Ml Capacity 95 Mm Diameter 45 Mm Depth
     Tamper Evident Systempak 2009
 name_no_class: Packaging Takeaway Container Circle 180 Ml Capacity 95 Mm Diameter
@@ -61,11 +63,12 @@ name_space: packaging takeaway container circle 180 ml capacity 95 mm diameter 4
 name_upper: PACKAGING TAKEAWAY CONTAINER CIRCLE 180 ML CAPACITY 95 MM DIAMETER 45
     MM DEPTH TAMPER EVIDENT SYSTEMPAK 2009
 oomlout_ai_roboclick_1:
+    action_name: step_1_create_icon
     actions:
     -   command: new_chat
         description: step_1_create_icon
     -   command: ai_query
-        delay: '240'
+        delay: '180'
         mode_ai_wait: slow
         text: "## READ THIS FIRST \u2014 no theme is coming in this message, and that\
             \ is correct\n\nThis is **step 1 of 2**. It is deliberately theme-free.\
@@ -153,7 +156,7 @@ oomlout_ai_roboclick_1:
             \ be graded against it.\n\nThen stop. No final image prompt, no questions,\
             \ no theme.\n"
     -   command: ai_query
-        delay: '240'
+        delay: '180'
         mode_ai_wait: slow
         text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **an image of packaging\
             \ takeaway container circle 180 ml capacity 95 mm diameter 45 mm depth\
@@ -212,11 +215,12 @@ oomlout_ai_roboclick_1:
     file_test: initial_generated.png
     retries_until_complete: 0
 oomlout_ai_roboclick_2:
+    action_name: step_2_create_image_chibi
     actions:
     -   command: new_chat
         description: step_2_create_image_chibi
     -   command: ai_query
-        delay: '240'
+        delay: '180'
         mode_ai_wait: slow
         text: "## READ THIS FIRST \u2014 no theme is coming in this message, and that\
             \ is correct\n\nThis is **step 1 of 2**. It is deliberately theme-free.\
@@ -304,7 +308,7 @@ oomlout_ai_roboclick_2:
             \ most, so step 2 can be graded against it.\n\nThen stop. No final image\
             \ prompt, no questions, no theme.\n"
     -   command: ai_query
-        delay: '240'
+        delay: '180'
         mode_ai_wait: slow
         text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **a fun chibi CGI\
             \ inspired picture of packaging takeaway container circle 180 ml capacity\
@@ -369,6 +373,7 @@ oomlout_ai_roboclick_2:
     file_test: initial_generated_chibi.png
     retries_until_complete: 0
 oomlout_ai_roboclick_3:
+    action_name: step_2_jinja_template_label_oomp.svg
     actions:
     -   command: text_jinja_template
         convert_to_pdf: false
@@ -383,11 +388,12 @@ oomlout_ai_roboclick_3:
             name_upper: PACKAGING TAKEAWAY CONTAINER CIRCLE 180 ML CAPACITY 95 MM
                 DIAMETER 45 MM DEPTH TAMPER EVIDENT SYSTEMPAK 2009
             oomlout_ai_roboclick_1:
+                action_name: step_1_create_icon
                 actions:
                 -   command: new_chat
                     description: step_1_create_icon
                 -   command: ai_query
-                    delay: '240'
+                    delay: '180'
                     mode_ai_wait: slow
                     text: "## READ THIS FIRST \u2014 no theme is coming in this message,\
                         \ and that is correct\n\nThis is **step 1 of 2**. It is deliberately\
@@ -492,7 +498,7 @@ oomlout_ai_roboclick_3:
                         \ 12 lines at most, so step 2 can be graded against it.\n\n\
                         Then stop. No final image prompt, no questions, no theme.\n"
                 -   command: ai_query
-                    delay: '240'
+                    delay: '180'
                     mode_ai_wait: slow
                     text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **an image\
                         \ of packaging takeaway container circle 180 ml capacity 95\
@@ -561,11 +567,12 @@ oomlout_ai_roboclick_3:
                 file_test: initial_generated.png
                 retries_until_complete: 0
             oomlout_ai_roboclick_2:
+                action_name: step_2_create_image_chibi
                 actions:
                 -   command: new_chat
                     description: step_2_create_image_chibi
                 -   command: ai_query
-                    delay: '240'
+                    delay: '180'
                     mode_ai_wait: slow
                     text: "## READ THIS FIRST \u2014 no theme is coming in this message,\
                         \ and that is correct\n\nThis is **step 1 of 2**. It is deliberately\
@@ -670,7 +677,7 @@ oomlout_ai_roboclick_3:
                         \ 12 lines at most, so step 2 can be graded against it.\n\n\
                         Then stop. No final image prompt, no questions, no theme.\n"
                 -   command: ai_query
-                    delay: '240'
+                    delay: '180'
                     mode_ai_wait: slow
                     text: "## Step 2 of 2 \u2014 the theme\n\nThe theme is: **a fun\
                         \ chibi CGI inspired picture of packaging takeaway container\
@@ -783,15 +790,18 @@ oomlout_ai_roboclick_3:
         dict_data_files: {}
         dict_data_files_exists: {}
         file_output: label_oomp.svg
-        file_template: C:\od\OneDrive\docs\oomp_packaging\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        file_template: C:\gh\oomp_packaging_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
         search_and_replace: []
     file_test: label_oomp.pdf
     retries_until_complete: 0
 oomp_key: oomp_packaging_takeaway_container_circle_180_ml_capacity_95_mm_diameter_45_mm_depth_tamper_evident_systempak_2009
-run_action: true
+run_action: false
+run_blender: true
 run_oomp: true
 run_oomp_populate: true
-run_scad: false
+run_readme: true
+run_scad: true
+run_svg: true
 source_shape: round
 source_title: 180ml Round 95mm Diameter Tamper Evident Containers and Lids
 systempak_additional_information:

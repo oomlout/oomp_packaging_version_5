@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/5-Litre-White-Round-214mm-Diameter-Tamper-Evident-Buckets-with-Handles-and-Lids-2401-Close-Up.jpg",
+  "sku": "2401w",
+  "title": "5.5 Litre Round White 214mm Diameter Tamper Evident Buckets, Handles and Lids",
+  "shape": "round",
+  "length": 226.0,
+  "width": 226.0,
+  "height": 182.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 226mm x H 182mm",
+  "colour": "White",
+  "handle": true,
+  "discrepancy": "The title gives a nominal 214 mm diameter while the size field says 226 mm. This model uses the size field.",
+  "source": "https://systempak.net/product/5-5-litre-round-214mm-diameter-tamper-evident-buckets-handles-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/03/TDS-2401W-5.5L-1.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

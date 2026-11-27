@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/2300ml-Round-170mm-Diameter-Tamper-Evident-Container-with-Handles-and-Lids-2031-Close-Up.jpg",
+  "sku": "2031",
+  "title": "2300ml Round 170mm Diameter Standard Tamper Evident Container with Handles and Lids",
+  "shape": "round",
+  "length": 160.0,
+  "width": 160.0,
+  "height": 155.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 160mm x H 155mm",
+  "colour": "Clear",
+  "handle": true,
+  "discrepancy": "The title says 170 mm diameter while the listing size field says 160 mm. This model uses the size field.",
+  "source": "https://systempak.net/product/2300ml-round-170mm-diameter-tamper-evident-container-with-handles-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/03/TDS-2031T-2300ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

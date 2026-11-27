@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/500ml-White-Rectangular-Tamper-Evident-Containers-and-Lids-215WC-Close-Up.jpg",
+  "sku": "215w",
+  "title": "500ml Rectangular White FG Tamper Evident Containers and lids",
+  "shape": "rectangular",
+  "length": 118.0,
+  "width": 89.0,
+  "height": 76.0,
+  "basis": "supplier listing size field",
+  "source_size": "L 118mm x W 89mm x H 76mm",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The title specifies white while the colour field says clear. The render follows the title.",
+  "source": "https://systempak.net/product/500ml-rectangular-white-tamper-evident-containers-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-215W-500ML-2.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and tab use simplified estimates."
+}

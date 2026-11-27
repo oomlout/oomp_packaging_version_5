@@ -15,3 +15,9 @@ Edit the [dolly declarations](working_oomp_populate_detail_dolly.py) for dimensi
 Run `python action_make_all.py --part <canonical_id>` for one dolly or `python action_make_all.py` for the catalogue. Each part page includes its exact command.
 Use the project's OOMP/OOBB Python environment with NumPy, trimesh, PyYAML and Shapely 2, plus OpenSCAD with the Manifold backend and Blender on PATH.
 <!-- end dolly catalogue -->
+
+<!-- systempak catalogue -->
+## SystemPAK containers
+
+[Browse all SystemPAK parts](models/systempak_catalogue.md) and the [contact sheets](models/systempak_contact_sheets/).
+<!-- end systempak catalogue -->

@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/3-Litre-Round-200mm-Diameter-Tamper-Evident-Buckets-with-Handles-and-Lids-2400-Close-Up.jpg",
+  "sku": "2400c",
+  "title": "3.5 Litre Round 200mm Diameter Clear Tamper Evident Buckets with Handles and Lids",
+  "shape": "round",
+  "length": 200.0,
+  "width": 200.0,
+  "height": 154.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 200mm x H 154mm",
+  "colour": "White",
+  "handle": true,
+  "discrepancy": "The title specifies clear while the colour field says white. The render follows the title.",
+  "source": "https://systempak.net/product/3-5-litre-round-200mm-diameter-clear-tamper-evident-buckets-with-handles-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-2400-3.5L.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

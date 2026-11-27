@@ -1,0 +1,17 @@
+{
+  "photo": "",
+  "sku": "2015cala",
+  "title": "520m Calabashi White Containers and Lids",
+  "shape": "round",
+  "length": 95.0,
+  "width": 95.0,
+  "height": 115.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 95mm x H 115mm",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The title specifies white while the colour field says clear. The render follows the title.",
+  "source": "https://systempak.net/product/520m-calabashi-white-containers-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-2015-520ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/50ml-Round-47mm-Diameter-Standard-Tamper-Evident-Containers-and-Lids-2002-Close-Up.jpg",
+  "sku": "2002",
+  "title": "50ml Round 47mm Diameter Tamper Evident Containers and Lids",
+  "shape": "round",
+  "length": 48,
+  "width": 48,
+  "height": 31,
+  "basis": "supplier technical sheet, container dimensions",
+  "source_size": "",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The technical sheet states a 48 mm diameter while the listing title and OOMP identifier say 47 mm.",
+  "source": "https://systempak.net/product/50ml-round-47mm-diameter-standard-tamper-evident-containers-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-2002-50ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

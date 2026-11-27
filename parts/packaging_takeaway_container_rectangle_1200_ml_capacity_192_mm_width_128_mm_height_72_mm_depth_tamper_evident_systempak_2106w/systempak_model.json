@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/1200ml-White-Rectangular-Tamper-Evident-Containers-and-Lids-2106-Close-Up.jpg",
+  "sku": "2106w",
+  "title": "1200ml White Freezer Grade Rectangular Tamper Evident Containers and Lids",
+  "shape": "rectangular",
+  "length": 192.0,
+  "width": 128.0,
+  "height": 72.0,
+  "basis": "supplier listing size field",
+  "source_size": "L 192mm x W 128mm x H 72mm",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The title specifies white while the colour field says clear. The render follows the title.",
+  "source": "https://systempak.net/product/1200ml-white-freezer-grade-rectangular-tamper-evident-containers-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-2106W-1200ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and tab use simplified estimates."
+}

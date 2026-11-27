@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/01/2402.jpg",
+  "sku": "2402w",
+  "title": "11 Litre Round White 278mm Diameter Tamper Evident Bucket, Handles and Lids",
+  "shape": "round",
+  "length": 278.0,
+  "width": 278.0,
+  "height": 230.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 278mm x H 230mm",
+  "colour": "White",
+  "handle": true,
+  "discrepancy": "The linked technical sheet is labelled 5.5 litre while the listing describes an 11 litre bucket. This model uses the listing size.",
+  "source": "https://systempak.net/product/11-litre-round-white-278mm-diameter-tamper-evident-bucket-handles-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/03/TDS-2401-5.5L-1.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

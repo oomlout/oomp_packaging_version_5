@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/90ml-Round-69mm-Diameter-Standard-Tamper-Evident-Containers-and-Lids-2004-Close-Up.jpg",
+  "sku": "2004",
+  "title": "90ml Round 69mm Diameter Tamper Evident Containers and Lids",
+  "shape": "round",
+  "length": 69.0,
+  "width": 69.0,
+  "height": 36.0,
+  "basis": "supplier listing size field",
+  "source_size": "W 69mm x H 36mm",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The linked technical sheet identifies SKU 2003. This model uses the 2004 listing size.",
+  "source": "https://systempak.net/product/90ml-round-tamper-evident-container-and-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/03/TDS-2003-80ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}

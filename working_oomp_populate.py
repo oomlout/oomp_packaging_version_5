@@ -33,7 +33,7 @@ def main(**kwargs):
 
     if selector:
         extras = [part for part in extras if build_oomp_id(part.copy()) == selector
-                  and (part.get("model_profile") or part.get("taxonomy_2") == "dolly")]
+                  and (part.get("model_profile") or part.get("taxonomy_2") == "dolly" or part.get("taxonomy_14") == "systempak")]
         if not extras:
             raise ValueError(f"No registered model for {selector}")
     write_extras(extras)

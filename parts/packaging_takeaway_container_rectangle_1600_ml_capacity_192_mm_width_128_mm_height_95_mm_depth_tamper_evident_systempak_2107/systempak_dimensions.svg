@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="440" viewBox="0 0 620 440">
+<title>1600ml Rectangular Tamper Evident Containers and Lids dimensioned overview</title><style>text{font:16px Arial;fill:#243b40} .title{font-size:22px;font-weight:bold} .shape{fill:#d6e9e9;stroke:#23555b;stroke-width:2} .inner{fill:none;stroke:#7fa6a8} .dim{fill:none;stroke:#42686d} .small{font-size:13px}</style>
+<rect width="620" height="440" fill="white"/><text x="24" y="34" class="title">1600ml Rectangular Tamper Evident Containers and Lids</text>
+<text x="24" y="65" class="small">PLAN</text><rect x="98.94736842105263" y="85.63157894736842" width="202.10526315789474" height="134.73684210526315" rx="20" class="shape"/><rect x="103.94736842105263" y="90.63157894736842" width="192.10526315789474" height="124.73684210526315" rx="15" class="inner"/><path class="dim" d="M98.94736842105263 237v8 M301.0526315789474 237v8 M98.94736842105263 241h202.10526315789474"/><text x="200" y="263" text-anchor="middle">192.0 mm</text>
+<text x="335" y="177">128.0 mm</text>
+<text x="24" y="337" class="small">SIDE</text><path class="shape" id="body-side" d="M100.94736842105263 291.0 L299.0526315789474 291.0 L283.87368421052633 385 L116.1263157894737 385 Z"/><rect x="98.94736842105263" y="285.0" width="202.10526315789474" height="6" rx="2" class="shape"/><path class="dim" d="M325 285.0h10 M325 385h10 M330 285.0V385"/><text x="343" y="335.0">95.0 mm</text>
+<text x="24" y="421" class="small">Supplier stated size · details and wall profiles are approximate</text></svg>

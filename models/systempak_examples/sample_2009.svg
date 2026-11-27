@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="440" viewBox="0 0 620 440">
+<title>180 ml round · SKU 2009 dimensioned overview</title><style>text{font:16px Arial;fill:#243b40} .title{font-size:22px;font-weight:bold} .shape{fill:#d6e9e9;stroke:#23555b;stroke-width:2} .inner{fill:none;stroke:#7fa6a8} .dim{fill:none;stroke:#42686d} .small{font-size:13px}</style>
+<rect width="620" height="440" fill="white"/><text x="24" y="34" class="title">180 ml round · SKU 2009</text>
+<text x="24" y="65" class="small">PLAN</text><circle cx="200" cy="153" r="74.0" class="shape"/><circle cx="200" cy="153" r="69.0" class="inner"/><path class="dim" d="M126.0 237v8 M274.0 237v8 M126.0 241h148.0"/><text x="200" y="263" text-anchor="middle">Ø 95 mm</text>
+<text x="335" y="177"></text>
+<text x="24" y="337" class="small">SIDE</text><path class="shape" id="body-side" d="M128.0 320.89473684210526 L272.0 320.89473684210526 L264.3478260869565 385 L135.6521739130435 385 Z"/><rect x="126.0" y="314.89473684210526" width="148.0" height="6" rx="2" class="shape"/><path class="dim" d="M325 314.89473684210526h10 M325 385h10 M330 314.89473684210526V385"/><text x="343" y="349.9473684210526">45 mm</text>
+<text x="24" y="421" class="small">Closed overall dimensions · details and wall profiles are approximate</text></svg>

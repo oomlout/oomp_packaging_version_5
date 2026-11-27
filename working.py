@@ -59,6 +59,16 @@ def run(**kwargs):
     if run_readme:
         import working_readme
         working_readme.main(**kwargs)
+        import working_systempak_catalogue
+        working_systempak_catalogue.main(**kwargs)
+        if not kwargs.get("model_id"):
+            import working_systempak_index
+            working_systempak_index.main(**kwargs)
+        import working_systempak_examples
+        working_systempak_examples.main(**kwargs)
+        if not kwargs.get("model_id"):
+            import working_systempak_new_samples
+            working_systempak_new_samples.main(**kwargs)
 
 
 

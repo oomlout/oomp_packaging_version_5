@@ -1,0 +1,17 @@
+{
+  "photo": "https://systempak.net/wp-content/uploads/2024/03/25ml-Round-47mm-Diameter-Standard-Tamper-Evident-Containers-and-Lids-2001-Close-Up.jpg",
+  "sku": "2001",
+  "title": "25ml Round 47mm Diameter Standard Tamper Evident Containers and Lids",
+  "shape": "round",
+  "length": 47,
+  "width": 47,
+  "height": 27.9,
+  "basis": "supplier technical sheet, container dimensions",
+  "source_size": "",
+  "colour": "Clear",
+  "handle": false,
+  "discrepancy": "The listing title says 25 ml while the legacy OOMP identifier says 30 ml. Dimensions follow the technical sheet.",
+  "source": "https://systempak.net/product/25ml-round-clear-tamper-evident-container-lids/",
+  "technical_sheet": "https://systempak.net/wp-content/uploads/2024/04/TDS-2001-25ML.pdf",
+  "model_note": "The body taper, wall thickness, lid seating and any handle use simplified estimates. The circular reference omits the tamper-evident tab."
+}
